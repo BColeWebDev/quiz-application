@@ -1,4 +1,4 @@
-# quiz-application
+# Quiz-Application
 
 ## Project Setup
 
