@@ -1,0 +1,46 @@
+[{
+"title":"Front End Developer Quiz",
+"questions":[
+{
+"id":1, 
+"questionTitle":"What purpose HTML and CSS?", 
+"answer":"HTML is use to create web page content on the browser. CSS is used to style the web page content created in HTML.",
+"options":
+[
+     {"id":1,"option":"HTML is use to create web page content on the browser. CSS is used to style the web page content created in HTML."},
+     {"id":2,"option":"Answer Two"},  
+     {"id":3,"option":"Answer Three"},
+     {"id":4,"option":"Answer Four"}
+
+]
+},
+{
+    "id":2, 
+    "questionTitle":"What is Javascript?", 
+    "answer":"Javascript is the language of the browser it is used to create functionality for websites.",
+    "options":
+    [
+    
+        {"id":1,"option":"Javascript is the language of the browser it is used to create functionality for websites."},
+        {"id":2,"option":"Answer Two"},  
+        {"id":3,"option":"Answer Three"},
+        {"id":4,"option":"Answer Four"}
+   
+    ]
+},
+{
+    "id":3, 
+    "questionTitle":"What are some Javascript frameworks?", 
+    "answer":"React, Vue, Angular",
+    "options":
+    [
+    
+        {"id":1,"option":"React, Vue, Angular"},
+        {"id":2,"option":"Answer Two"},  
+        {"id":3,"option":"Answer Three"},
+        {"id":4,"option":"Answer Four"}
+   
+    ]
+    }
+]
+}]
